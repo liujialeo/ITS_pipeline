@@ -1,7 +1,7 @@
 [TOC]
 
 #!/bin/bash
-    # 作者 Authors: Liu Jia
+    # 作者 Authors: Jia Liu
     # 更新 Update: 2023-04-18
 
     # 设置软件/数据库(database,db)和工作目录(work directory,wd)并进入wd
